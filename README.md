@@ -32,6 +32,3 @@ Contributions are welcome! If you'd like to contribute to Counter, please fork t
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-
-This description provides a clear overview of the app's functionality and how to use it, while also inviting contributions from other developers.
