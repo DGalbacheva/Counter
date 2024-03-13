@@ -7,6 +7,6 @@ Counter is a simple iOS application. The app features two buttons, '+' and '-', 
 
 ## Features
 
-- **Increment and Decrements: Increase or decrease the count with the tap of a button.
-- **Operation Display: Text view provides a log of operations performed, indication weather the count was increased or decreased by 1.
-- **Intuitive Interface: Simple and user-friendly interface for effortless counting.
+- **Increment and Decrements:** Increase or decrease the count with the tap of a button.
+- **Operation Display:** Text view provides a log of operations performed, indication weather the count was increased or decreased by 1.
+- **Intuitive Interface:** Simple and user-friendly interface for effortless counting.
